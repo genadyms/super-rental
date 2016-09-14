@@ -1,4 +1,8 @@
 {
-  "directory": "bower_components",
-  "analytics": false
+	"registry":"http://bower.herokuapp.com",
+	"proxy":"http://gennady_ma:partner_123@10.254.42.4:8080",
+	"https_proxy":"http://gennady_ma:partner_123@10.254.42.4:8080",
+	"strict-ssl":false,
+  	"directory": "bower_components",
+  	"analytics": false
 }
